@@ -27,7 +27,7 @@ git clone https://github.com/kromme/DeepArt.git
 2. Find a photo you would like to be painted.  
 3. Find a style-photo, there are some suggestions in the folder `input_styles`.  
 4. Open CMD in the folder (TIP: just type `CMD` in the location-path in File Explorer)
-5. Type `python deepart.py <photo> <style_photo>
+5. Type `python deepart.py <photo> <style_photo>`
 6. Wait.. If it takes too long you can reduce max_pix_length (outputs smaller pictures), or n_checkpoints (stop earlier, so results gets worse)
 
 ## Examples
